@@ -426,16 +426,13 @@ body{
   color: white;
   background: rgb(0, 140, 234);
   border: none;
-  box-shadow: 0 0.7em 1.5em -0.5em rgba(59, 48, 78, 0.527);
+  box-shadow: 0 0.7em 1.5em -0.5em rgba(222, 221, 225, 0.527);
   letter-spacing: 0.05em;
   border-radius: 8px;
   cursor: pointer;
   position: relative;
 }
 
-.Download-button i span{
-  color: white;
-}
 .Download-button i {
   margin-right: 8px;
   width: 25px;
